@@ -1,5 +1,6 @@
 # Modelling-with-KNN_classifier_And-_Naive_Bayes-classifier
-## problem statement:**create a model that can predict survival rate in a ship taking into consideration factors sorrounding passengers aboard the Titanic.**
+## problem statement:
+**create a model that can predict survival rate in a ship taking into consideration factors sorrounding passengers aboard the Titanic.**
 ## Experimental design
 * Loading and previewing the dataset
 * Data cleaning,removing and replacing null values, checking for outliers
