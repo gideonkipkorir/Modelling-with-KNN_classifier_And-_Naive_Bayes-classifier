@@ -1,6 +1,20 @@
 # Modelling-with-KNN_classifier_And-_Naive_Bayes-classifier
 ## problem statement:
 **create a model that can predict survival rate in a ship taking into consideration factors sorrounding passengers aboard the Titanic.**
+## Data Understanding
+			**Variable **	**Definition**	**Key**
+*	1	survival,	Survival	0 = No, 1 = Yes
+*	2	pclass,	Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd
+*	3	sex,	Male or Female
+*	4	Age,	Age in years	
+*	5	sibsp,	# of siblings / spouses aboard the Titanic	
+*	6	parch,	# of parents / children aboard the Titanic	
+*	7	ticket	,Ticket number	
+*	8	fare	,Passenger fare	
+*	9	cabin,	Cabin number	
+*	10	embarked	Port of Embarkation,	C = Cherbourg, Q = Queenstown, S = Southampton
+
+
 ## Experimental design
 * Loading and previewing the dataset
 * Data cleaning,removing and replacing null values, checking for outliers
