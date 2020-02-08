@@ -21,7 +21,9 @@
 * Undertook exploratory data analysis, both bivariate, univariate and multivariate analysis to gain insights about the data
 * Modelling with KNearest Neigbhbors and Multilinear Naice Bayes , including hyper parameter tunning 
 ## Challenging the solution
-despite halving a model that can help in disaster management, still we do not have know the fine details on where the survivors or non-survivors were when the Titanic sunk.Furthermore, our analysis does not incorporate the safety measures available in the a ship, e.g safety jackets or rescue boats. 
+We do not have know the true picture of the location of the passengers when the tradgy occured.Furthermore, our analysis does not incorporate the safety measures available in the a ship, e.g safety jackets or rescue boats, availability oxygen masks. 
+
 ## Did we have the right data? ## 
 no,We need additional data of those survived that can help to explain the deaths
- we need to know the causes of death of the non-survivors,could be due to extreme cold, drowning etc... 
+ we need to know the causes of death of the non-survivors,could be due to extreme cold, drowning etc... we also lack data on afety measures available in the a ship, e.g safety jackets or rescue boats, availability oxygen masks. 
+## Follow up questions?## what unique feature did the females have that made them have better chance of survival than men?
