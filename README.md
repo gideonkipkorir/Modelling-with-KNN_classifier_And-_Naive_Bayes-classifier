@@ -26,4 +26,5 @@ We do not have know the true picture of the location of the passengers when the 
 ## Did we have the right data? ## 
 no,We need additional data of those survived that can help to explain the deaths
  we need to know the causes of death of the non-survivors,could be due to extreme cold, drowning etc... we also lack data on afety measures available in the a ship, e.g safety jackets or rescue boats, availability oxygen masks. 
-## Follow up questions?## what unique feature did the females have that made them have better chance of survival than men?
+## Follow up questions?## 
+what unique feature did the females have that made them have better chance of survival than men?
